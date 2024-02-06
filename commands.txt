@@ -1,0 +1,18 @@
+mkdir frontend
+mkdir backend
+
+npm init -y
+npm i express dotenv cookie-parser bcryptjs mongoose socket.io jsonwebtoken
+npm install nodemon --save-dev
+
+
+cd frontend
+npm create vite@latest
+>> React
+>> JavaScript
+
+npm install
+npm run dev
+
+
+cd backend
