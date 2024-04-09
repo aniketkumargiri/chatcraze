@@ -1,0 +1,32 @@
+mkdir backend
+cd backend
+
+root:
+npm init -y
+npm i express dotenv cookie-parser bcryptjs mongoose socket.io jsonwebtoken
+npm install nodemon --save-dev
+
+
+mkdir frontend
+cd frontend
+npm create vite@latest
+>> React
+>> JavaScript
+
+npm install
+npm run dev
+
+npm install react-icons --save
+npm i react-router-dom
+npm i react-hot-toast
+npm install socket.io-client
+npm i zustand
+
+run server:
+npm run server
+
+build for production:
+npm run build
+
+start app:
+npm run start
