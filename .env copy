@@ -1,7 +1,0 @@
-PORT = 5000
-
-MONGO_DB_URI = mongodb+srv://aniketkumargiri2707:ox6NPaFkjCay6CrG@cluster0.aprcns8.mongodb.net/chatcraze?retryWrites=true&w=majority
-
-JWT_SECRET = 9quUN5sSR7vw7FEIOdlKEZn8gziW3/6J3+pRnfU4j2s=
-
-NODE_ENV = development
