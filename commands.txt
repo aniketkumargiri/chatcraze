@@ -28,5 +28,5 @@ npm run server
 build for production:
 npm run build
 
-start app:
+start app after build:
 npm run start
